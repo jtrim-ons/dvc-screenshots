@@ -1,0 +1,1 @@
+`metadata.json` contains information about 1684 articles containing data visualisations.  Each iteme has a `charts` array. For each chart, there is a URL and a hash which corresponds to the filename of the screenshot in the `trimmed-screenshots` directory.
